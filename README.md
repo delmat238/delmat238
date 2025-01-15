@@ -19,6 +19,15 @@ Passionné par l'informatique, je m'intéresse à de nombreux domaines tels que 
 
 Mon objectif est de continuer à développer mes compétences techniques et professionnelles, tout en contribuant activement aux projets qui me sont confiés.
 
+### Passion
+
+Musique :
+- DJ évennements techno
+- guitare
+- batterie
+
+![Mon image](photo-teuf.jpg)
+
 
 ## Compétences
 
