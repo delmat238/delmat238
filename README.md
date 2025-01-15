@@ -70,6 +70,12 @@ Création d'une application en **Golang** pour générer des projets à partir d
 
 Ces projets illustrent mon expérience dans l'analyse de données, le développement backend et la gestion des outils d'intégration continue. Je suis passionné par la résolution de problèmes complexes et l'amélioration des processus métier.
 
+## Autre experiences Professionelles
+
+Maitre charcutier
+
+![Mon image](charcute.png)
+
 
 ## Contact
 
