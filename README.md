@@ -19,6 +19,8 @@ Passionné par l'informatique, je m'intéresse à de nombreux domaines tels que 
 
 Mon objectif est de continuer à développer mes compétences techniques et professionnelles, tout en contribuant activement aux projets qui me sont confiés.
 
+![Mon image](tellement-vrai.PNG)
+
 ### Passion
 
 Musique :
