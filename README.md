@@ -22,7 +22,7 @@ Mon objectif est de continuer à développer mes compétences techniques et prof
 ### Passion
 
 Musique :
-- DJ évennements techno
+- DJ évennements techno (DoudouTek #ad)
 - guitare
 - batterie
 
